@@ -79,7 +79,7 @@ javac -version
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/singh459/WatchNext--Genre-Preference-Content-Recommendation-Engine
 ```
 
 Navigate to the project directory:

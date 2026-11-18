@@ -179,7 +179,7 @@ public class Main {
                             if (!genreAlreadyShown) {
 
                                 int totalRating = 0;
-                                int ratingCount = 0;
+                                int ratingCount = 0; 
 
                                 for (int w = 0; w < watchedCount; w++) {
 
